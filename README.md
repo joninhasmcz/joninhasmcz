@@ -1,4 +1,4 @@
-## Olá, eu sou Jonas Santos de Almeida Alves, futuro cientista da computação!
+## Olá, eu sou Jonas Santos de Almeida Alves, futuro cientista da computação.
 
 
 - 🔭 Eu trabalho hoje com Laravel/PHP na Secretaria de Planejamento de Alagoas - Seplag
