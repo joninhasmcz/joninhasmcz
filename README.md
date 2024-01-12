@@ -1,8 +1,7 @@
 ## Olá, eu sou Jonas Santos de Almeida Alves, futuro cientista da computação.
 
 
-- 🔭 Eu trabalho hoje com Laravel/PHP na Secretaria de Planejamento de Alagoas - Seplag
-- 🌱 Eu estou estudando atualmente js, css, html puro. Para aprender nodejs e reactjs posteriormente
+- 🔭 Eu trabalho hoje com PYTHON/PHP no Instituto de Tecnologia em Informática e Informação do Estado de Alagoas - ITEC
 - 📫 Email para falar comigo: junas@ic.ufal.br
 
 
